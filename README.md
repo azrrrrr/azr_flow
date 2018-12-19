@@ -1,16 +1,5 @@
----
-layout:     post
-title:      Static Type Checker For JavaScript
-subtitle:   Flow能够给JavaScript提供静态类型检查的能力，其实就是为javascript添加了一个编译过程。
-date:      2018-12-26
-author:     Azr
-header-img: img/post-bg-universe.jpg
-catalog: true
-tags:
-    - JavaScript
-    - Flow
-    - 静态类型检查
----
+
+# Static Type Checker For JavaScript
 
 
 > Flow.js 是工具，它提供的类型标注语言是一门语言，但 Flow.js 本身并不是一门语言。
